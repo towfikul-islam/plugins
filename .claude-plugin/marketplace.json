@@ -9,8 +9,8 @@
     {
       "name": "trello",
       "source": {
-        "source": "github",
-        "repo": "towfikul-islam/trello-skill"
+        "source": "url",
+        "url": "https://github.com/towfikul-islam/trello-skill.git"
       },
       "description": "Direct Trello API access — read cards, post comments, upload files, download attachment bytes. No MCP server needed.",
       "version": "2.0.0",
