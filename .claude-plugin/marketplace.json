@@ -1,0 +1,21 @@
+{
+  "name": "towfik",
+  "description": "Claude Code plugins by Towfik",
+  "owner": {
+    "name": "towfikul-islam",
+    "url": "https://github.com/towfikul-islam"
+  },
+  "plugins": [
+    {
+      "name": "trello",
+      "source": {
+        "source": "github",
+        "repo": "towfikul-islam/trello-skill"
+      },
+      "description": "Direct Trello API access — read cards, post comments, upload files, download attachment bytes. No MCP server needed.",
+      "version": "2.0.0",
+      "category": "productivity",
+      "tags": ["trello", "project-management", "api", "bash"]
+    }
+  ]
+}
