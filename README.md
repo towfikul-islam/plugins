@@ -20,4 +20,4 @@ Then install any plugin:
 
 | Plugin | Description |
 |---|---|
-| [`trello`](https://github.com/towfikul-islam/trello-skill) | Direct Trello API access — read cards, post comments, upload files, download attachment bytes |
+| [`trello`](https://github.com/Strong-Force-Analytics/trello-skill) | Direct Trello API access — read cards, post comments, upload files, download attachment bytes |

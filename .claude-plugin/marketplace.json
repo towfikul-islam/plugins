@@ -10,10 +10,10 @@
       "name": "trello",
       "source": {
         "source": "url",
-        "url": "https://github.com/towfikul-islam/trello-skill.git"
+        "url": "https://github.com/Strong-Force-Analytics/trello-skill.git"
       },
       "description": "Direct Trello API access — read cards, post comments, upload files, download attachment bytes. No MCP server needed.",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "category": "productivity",
       "tags": ["trello", "project-management", "api", "bash"]
     }
